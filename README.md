@@ -10,13 +10,15 @@ Also, as you all know, ChatGPT is an awesome teacher. From the beginning of my j
 
 # Timeline
 
+The dates bolow are in YYYY-MM-DD format.
+
 ## 2026-07-05
 
-* Completed [Project 001](with-chatgpt/001 KNN/project001)
-* Completed [Project 002](with-chatgpt/001 KNN/project002)
+* Completed [Project 001](with-chatgpt/001%20KNN/project001)
+* Completed [Project 002](with-chatgpt/001%20KNN/project002)
 
 ## 2026-07-04
 
 * Started this repository.
-* Started [Project 001 README.md](/with-chatgpt/001 KNN/project001/README.md).
+* Started [Project 001 README.md](with-chatgpt/001%20KNN/project001/README.md).
 * Started the [Root README.md](README.md).
