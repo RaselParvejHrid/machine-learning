@@ -12,6 +12,10 @@ Also, as you all know, ChatGPT is an awesome teacher. From the beginning of my j
 
 The dates bolow are in YYYY-MM-DD format.
 
+## 2026-07-07
+
+* Completed [Project 003](with-chatgpt/001%20KNN/project003)
+
 ## 2026-07-05
 
 * Completed [Project 001](with-chatgpt/001%20KNN/project001)
