@@ -15,6 +15,7 @@ The dates bolow are in YYYY-MM-DD format.
 ## 2026-07-07
 
 * Completed [Project 003](with-chatgpt/001%20KNN/project003)
+* Completed [Project 004](with-chatgpt/001%20KNN/project004)
 
 ## 2026-07-05
 
