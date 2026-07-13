@@ -35,3 +35,18 @@ Build a complete workflow:
   * Best hyperparameters
   * Why those hyperparameters may have worked
   * Strengths and weaknesses of KNN on this dataset
+
+  ## Best Hyperparameters
+  The best Value of k is `5`.
+  The best weight is `uniform`.
+  The best distance metric is  `Manhattan`.
+
+  ## Why those hyperparameters may have worked
+  I am stuck here. I, Rasel Parvej, have to learn more, and still train myself more to think like a ML Scientist/Engineer
+  
+  I have asked Gemini this question and the following one. I understand its answers. But I believe, I need time to make those answers mine.
+
+  ## Strengths and weaknesses of KNN on this dataset
+  I am stuck here, too. Yes, I have to train myself more to think like a ML Scientist/Engineer.
+
+
